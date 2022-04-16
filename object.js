@@ -10,7 +10,4 @@ console.log(typeof person.isIndian);
 
 //bracket operator
 console.log(person['isIndian']);
-
-
-
-
+console.log("hello");
